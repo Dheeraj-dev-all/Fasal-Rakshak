@@ -1,0 +1,323 @@
+{
+  "Apple___Apple_scab": {
+    "crop": "Apple", "disease": "Apple Scab",
+    "cause": "Fungal infection caused by Venturia inaequalis",
+    "symptoms": "Dark, scaly lesions on leaves and fruit surface",
+    "organic_remedy": "Spray neem oil solution (5ml per litre water) every 7 days. Remove and burn infected leaves.",
+    "chemical_remedy": "Apply Mancozeb 75% WP at 2g per litre water. Spray every 10-14 days.",
+    "urgency": "Medium",
+    "hindi": "सेब में पपड़ी रोग है। नीम तेल का छिड़काव करें (5ml प्रति लीटर पानी)। रोगग्रस्त पत्तियाँ हटाकर जलाएं। मैन्कोज़ेब दवा 2g प्रति लीटर पानी में मिलाकर 10-14 दिन में छिड़काव करें।"
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple", "disease": "Black Rot",
+    "cause": "Fungal infection caused by Botryosphaeria obtusa",
+    "symptoms": "Purple spots on leaves, rotting fruit with black rings",
+    "organic_remedy": "Remove mummified fruits and dead wood. Apply copper-based spray.",
+    "chemical_remedy": "Apply Captan 50% WP at 2.5g per litre. Repeat after 14 days.",
+    "urgency": "High",
+    "hindi": "सेब में काला सड़न रोग है। सूखे फल और मृत लकड़ी हटाएं। कैप्टन दवा 2.5g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple", "disease": "Cedar Apple Rust",
+    "cause": "Fungal disease caused by Gymnosporangium juniperi-virginianae",
+    "symptoms": "Bright orange-yellow spots on upper leaf surface",
+    "organic_remedy": "Remove nearby juniper/cedar trees if possible. Use sulfur-based organic spray.",
+    "chemical_remedy": "Apply Myclobutanil 10% WP at 1g per litre at pink bud stage.",
+    "urgency": "Medium",
+    "hindi": "सेब में देवदार जंग रोग है। सल्फर आधारित स्प्रे करें। माइक्लोब्यूटेनिल दवा 1g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Apple___healthy": {
+    "crop": "Apple", "disease": "Healthy",
+    "cause": "No disease detected",
+    "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care — proper watering, balanced fertilizer, and pest monitoring.",
+    "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपका सेब का पौधा स्वस्थ है! नियमित देखभाल जारी रखें — उचित सिंचाई, खाद और कीट निगरानी करते रहें।"
+  },
+  "Blueberry___healthy": {
+    "crop": "Blueberry", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपका ब्लूबेरी पौधा स्वस्थ है! नियमित देखभाल जारी रखें।"
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "crop": "Cherry", "disease": "Powdery Mildew",
+    "cause": "Fungal disease caused by Podosphaera clandestina",
+    "symptoms": "White powdery coating on young leaves and shoots",
+    "organic_remedy": "Spray baking soda solution (5g per litre water). Improve air circulation by pruning.",
+    "chemical_remedy": "Apply Sulfur 80% WP at 3g per litre water. Spray every 10 days.",
+    "urgency": "Medium",
+    "hindi": "चेरी में चूर्णिल आसिता रोग है। बेकिंग सोडा (5g प्रति लीटर पानी) का छिड़काव करें। सल्फर दवा 3g प्रति लीटर पानी में मिलाकर 10 दिन में छिड़काव करें।"
+  },
+  "Cherry_(including_sour)___healthy": {
+    "crop": "Cherry", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपका चेरी पौधा स्वस्थ है!"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Corn (Maize)", "disease": "Gray Leaf Spot",
+    "cause": "Fungal disease caused by Cercospora zeae-maydis",
+    "symptoms": "Rectangular gray-tan lesions running parallel to leaf veins",
+    "organic_remedy": "Rotate crops annually. Remove crop debris after harvest. Use resistant varieties.",
+    "chemical_remedy": "Apply Propiconazole 25% EC at 1ml per litre water. Spray at disease onset.",
+    "urgency": "High",
+    "hindi": "मक्का में भूरा पत्ती धब्बा रोग है। फसल चक्र अपनाएं। प्रोपिकोनाज़ोल दवा 1ml प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Corn (Maize)", "disease": "Common Rust",
+    "cause": "Fungal disease caused by Puccinia sorghi",
+    "symptoms": "Small, circular to elongated brown pustules on both leaf surfaces",
+    "organic_remedy": "Plant resistant hybrid varieties. Avoid late planting. Remove infected plants.",
+    "chemical_remedy": "Apply Mancozeb 75% WP at 2.5g per litre or Zineb at 2g per litre.",
+    "urgency": "High",
+    "hindi": "मक्का में सामान्य जंग रोग है। प्रतिरोधी किस्में लगाएं। मैन्कोज़ेब दवा 2.5g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Corn (Maize)", "disease": "Northern Leaf Blight",
+    "cause": "Fungal disease caused by Exserohilum turcicum",
+    "symptoms": "Long, cigar-shaped gray-green to tan lesions on leaves",
+    "organic_remedy": "Use certified disease-free seed. Crop rotation with non-host crops.",
+    "chemical_remedy": "Apply Propiconazole 25% EC at 1ml per litre or Tebuconazole at 1ml per litre.",
+    "urgency": "High",
+    "hindi": "मक्का में उत्तरी पत्ती झुलसा रोग है। रोगमुक्त बीज का उपयोग करें। प्रोपिकोनाज़ोल दवा 1ml प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "Corn (Maize)", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपकी मक्का की फसल स्वस्थ है! नियमित देखभाल जारी रखें।"
+  },
+  "Grape___Black_rot": {
+    "crop": "Grape", "disease": "Black Rot",
+    "cause": "Fungal disease caused by Guignardia bidwellii",
+    "symptoms": "Brown circular lesions on leaves, black shriveled mummified berries",
+    "organic_remedy": "Remove mummified berries. Improve canopy ventilation. Copper-based sprays.",
+    "chemical_remedy": "Apply Mancozeb 75% WP at 2g per litre. Begin spray at bud break.",
+    "urgency": "High",
+    "hindi": "अंगूर में काला सड़न रोग है। सूखे फल हटाएं। मैन्कोज़ेब दवा 2g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "crop": "Grape", "disease": "Esca (Black Measles)",
+    "cause": "Complex fungal disease involving Phaeomoniella and Phaeoacremonium species",
+    "symptoms": "Interveinal chlorosis and necrosis, dark streaking in wood",
+    "organic_remedy": "Prune infected wood during dry weather. Wound protectants after pruning.",
+    "chemical_remedy": "No fully effective chemical cure. Apply Thiophanate-methyl as preventive.",
+    "urgency": "High",
+    "hindi": "अंगूर में एस्का रोग है। संक्रमित लकड़ी को काटें। यह गंभीर रोग है, कृषि विशेषज्ञ से सलाह लें।"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "crop": "Grape", "disease": "Leaf Blight",
+    "cause": "Fungal disease caused by Isariopsis clavispora",
+    "symptoms": "Dark brown irregularly shaped spots on older leaves",
+    "organic_remedy": "Remove infected leaves. Improve air circulation. Neem oil spray.",
+    "chemical_remedy": "Apply Copper Oxychloride 50% WP at 3g per litre water.",
+    "urgency": "Medium",
+    "hindi": "अंगूर में पत्ती झुलसा रोग है। संक्रमित पत्तियाँ हटाएं। कॉपर ऑक्सीक्लोराइड दवा 3g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Grape___healthy": {
+    "crop": "Grape", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपके अंगूर का पौधा स्वस्थ है!"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "crop": "Orange", "disease": "Citrus Greening (HLB)",
+    "cause": "Bacterial disease caused by Candidatus Liberibacter, spread by psyllid insects",
+    "symptoms": "Yellow shoots, blotchy mottled leaves, small lopsided bitter fruit",
+    "organic_remedy": "Remove and destroy infected trees immediately. Control psyllid insects with sticky traps.",
+    "chemical_remedy": "No cure exists. Apply Imidacloprid to control psyllid vector. Remove infected trees.",
+    "urgency": "Critical",
+    "hindi": "संतरे में सिट्रस ग्रीनिंग रोग है। यह बहुत गंभीर रोग है। संक्रमित पेड़ तुरंत हटाएं और जलाएं। कृषि विभाग को सूचित करें।"
+  },
+  "Peach___Bacterial_spot": {
+    "crop": "Peach", "disease": "Bacterial Spot",
+    "cause": "Bacterial infection caused by Xanthomonas arboricola pv. pruni",
+    "symptoms": "Small water-soaked spots on leaves, fruit with sunken cracked spots",
+    "organic_remedy": "Avoid overhead irrigation. Plant resistant varieties. Copper sprays in fall.",
+    "chemical_remedy": "Apply Copper Hydroxide 77% WP at 3g per litre during early season.",
+    "urgency": "Medium",
+    "hindi": "आड़ू में जीवाणु धब्बा रोग है। ऊपर से सिंचाई बंद करें। कॉपर हाइड्रॉक्साइड दवा 3g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Peach___healthy": {
+    "crop": "Peach", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपका आड़ू पौधा स्वस्थ है!"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Bell Pepper", "disease": "Bacterial Spot",
+    "cause": "Bacterial infection caused by Xanthomonas campestris pv. vesicatoria",
+    "symptoms": "Small water-soaked lesions on leaves and fruit, yellowing around spots",
+    "organic_remedy": "Use disease-free transplants. Avoid overhead watering. Copper-based spray.",
+    "chemical_remedy": "Apply Copper Oxychloride 50% WP at 3g per litre water every 7-10 days.",
+    "urgency": "Medium",
+    "hindi": "शिमला मिर्च में जीवाणु धब्बा रोग है। कॉपर ऑक्सीक्लोराइड दवा 3g प्रति लीटर पानी में मिलाकर 7-10 दिन में छिड़काव करें।"
+  },
+  "Pepper,_bell___healthy": {
+    "crop": "Bell Pepper", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपकी शिमला मिर्च स्वस्थ है!"
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato", "disease": "Early Blight",
+    "cause": "Fungal disease caused by Alternaria solani",
+    "symptoms": "Dark brown circular spots with concentric rings (target board pattern) on older leaves",
+    "organic_remedy": "Remove infected lower leaves. Ensure proper spacing for air circulation. Neem oil spray weekly.",
+    "chemical_remedy": "Apply Mancozeb 75% WP at 2g per litre or Chlorothalonil at 2g per litre every 7-10 days.",
+    "urgency": "High",
+    "hindi": "आलू में अगेती झुलसा रोग है। नीचे की संक्रमित पत्तियाँ हटाएं। मैन्कोज़ेब दवा 2g प्रति लीटर पानी में मिलाकर 7-10 दिन में छिड़काव करें। यह रोग फसल को 30-40% नुकसान पहुंचा सकता है।"
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato", "disease": "Late Blight",
+    "cause": "Caused by Phytophthora infestans (water mold), spreads rapidly in wet cool weather",
+    "symptoms": "Dark water-soaked lesions on leaves with white fuzzy growth underneath, tuber rot",
+    "organic_remedy": "Remove infected plants immediately. Avoid overhead irrigation. Use copper spray.",
+    "chemical_remedy": "Apply Metalaxyl + Mancozeb (Ridomil Gold) at 2.5g per litre. Spray every 7 days in wet weather.",
+    "urgency": "Critical",
+    "hindi": "आलू में पछेती झुलसा रोग है — यह बहुत खतरनाक रोग है! संक्रमित पौधे तुरंत हटाएं। मेटालैक्सिल + मैन्कोज़ेब (रिडोमिल गोल्ड) 2.5g प्रति लीटर पानी में मिलाकर हर 7 दिन में छिड़काव करें।"
+  },
+  "Potato___healthy": {
+    "crop": "Potato", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care. Ensure proper hilling and irrigation.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपकी आलू की फसल स्वस्थ है! नियमित मिट्टी चढ़ाना और सिंचाई जारी रखें।"
+  },
+  "Raspberry___healthy": {
+    "crop": "Raspberry", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपका रास्पबेरी पौधा स्वस्थ है!"
+  },
+  "Soybean___healthy": {
+    "crop": "Soybean", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपकी सोयाबीन फसल स्वस्थ है!"
+  },
+  "Squash___Powdery_mildew": {
+    "crop": "Squash", "disease": "Powdery Mildew",
+    "cause": "Fungal disease caused by Podosphaera xanthii",
+    "symptoms": "White powdery spots on leaves and stems, leaves turn yellow and die",
+    "organic_remedy": "Spray baking soda solution (5g per litre water). Remove heavily infected leaves.",
+    "chemical_remedy": "Apply Sulfur 80% WP at 3g per litre water. Spray every 7-10 days.",
+    "urgency": "Medium",
+    "hindi": "लौकी/कद्दू में चूर्णिल आसिता रोग है। बेकिंग सोडा (5g प्रति लीटर पानी) का छिड़काव करें। सल्फर दवा 3g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Strawberry___Leaf_scorch": {
+    "crop": "Strawberry", "disease": "Leaf Scorch",
+    "cause": "Fungal disease caused by Diplocarpon earlianum",
+    "symptoms": "Small purple spots on upper leaf surface, leaves turn brown and die",
+    "organic_remedy": "Remove infected leaves. Avoid wetting foliage. Improve drainage.",
+    "chemical_remedy": "Apply Captan 50% WP at 2.5g per litre. Spray every 10-14 days.",
+    "urgency": "Medium",
+    "hindi": "स्ट्रॉबेरी में पत्ती झुलसा रोग है। संक्रमित पत्तियाँ हटाएं। कैप्टन दवा 2.5g प्रति लीटर पानी में मिलाकर 10-14 दिन में छिड़काव करें।"
+  },
+  "Strawberry___healthy": {
+    "crop": "Strawberry", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care.", "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपकी स्ट्रॉबेरी स्वस्थ है!"
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato", "disease": "Bacterial Spot",
+    "cause": "Bacterial infection caused by Xanthomonas species",
+    "symptoms": "Small water-soaked spots on leaves, dark brown spots on fruit",
+    "organic_remedy": "Use disease-free seeds. Avoid overhead watering. Copper-based sprays.",
+    "chemical_remedy": "Apply Copper Oxychloride 50% WP at 3g per litre every 7-10 days.",
+    "urgency": "High",
+    "hindi": "टमाटर में जीवाणु धब्बा रोग है। ऊपर से सिंचाई बंद करें। कॉपर ऑक्सीक्लोराइड दवा 3g प्रति लीटर पानी में मिलाकर 7-10 दिन में छिड़काव करें।"
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato", "disease": "Early Blight",
+    "cause": "Fungal disease caused by Alternaria solani",
+    "symptoms": "Dark brown spots with concentric rings on older lower leaves, yellowing around spots",
+    "organic_remedy": "Remove infected lower leaves immediately. Apply neem oil (5ml per litre) weekly. Mulch soil to prevent spore splash.",
+    "chemical_remedy": "Apply Mancozeb 75% WP at 2g per litre or Chlorothalonil 75% WP at 2g per litre every 7 days.",
+    "urgency": "High",
+    "hindi": "टमाटर में अगेती झुलसा रोग है। नीचे की संक्रमित पत्तियाँ तुरंत हटाएं। नीम तेल (5ml प्रति लीटर) साप्ताहिक छिड़काव करें। मैन्कोज़ेब दवा 2g प्रति लीटर पानी में मिलाकर हर 7 दिन में छिड़काव करें।"
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato", "disease": "Late Blight",
+    "cause": "Caused by Phytophthora infestans, spreads rapidly in humid conditions",
+    "symptoms": "Dark water-soaked lesions on leaves and stems, white fuzzy growth, rapid plant death",
+    "organic_remedy": "Remove infected plants immediately. Avoid overhead irrigation. Copper-based spray.",
+    "chemical_remedy": "Apply Metalaxyl + Mancozeb at 2.5g per litre. Spray every 5-7 days in wet weather.",
+    "urgency": "Critical",
+    "hindi": "टमाटर में पछेती झुलसा रोग है — यह बहुत खतरनाक है! संक्रमित पौधे तुरंत हटाएं। मेटालैक्सिल + मैन्कोज़ेब 2.5g प्रति लीटर पानी में मिलाकर हर 5-7 दिन में छिड़काव करें।"
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato", "disease": "Leaf Mold",
+    "cause": "Fungal disease caused by Passalora fulva (in high humidity)",
+    "symptoms": "Yellow spots on upper leaf surface, olive-green to brown fuzzy growth on underside",
+    "organic_remedy": "Reduce humidity by improving ventilation. Remove infected leaves. Neem oil spray.",
+    "chemical_remedy": "Apply Chlorothalonil 75% WP at 2g per litre or Copper Oxychloride at 3g per litre.",
+    "urgency": "Medium",
+    "hindi": "टमाटर में पत्ती फफूंद रोग है। हवा का आवागमन बढ़ाएं। संक्रमित पत्तियाँ हटाएं। क्लोरोथैलोनिल दवा 2g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato", "disease": "Septoria Leaf Spot",
+    "cause": "Fungal disease caused by Septoria lycopersici",
+    "symptoms": "Small circular spots with dark borders and light centers, starts on lower leaves",
+    "organic_remedy": "Remove infected leaves. Mulch around plants. Avoid wetting foliage.",
+    "chemical_remedy": "Apply Mancozeb 75% WP at 2g per litre or Chlorothalonil at 2g per litre every 7-10 days.",
+    "urgency": "Medium",
+    "hindi": "टमाटर में सेप्टोरिया पत्ती धब्बा रोग है। संक्रमित पत्तियाँ हटाएं। मैन्कोज़ेब दवा 2g प्रति लीटर पानी में मिलाकर 7-10 दिन में छिड़काव करें।"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato", "disease": "Spider Mites",
+    "cause": "Infestation by Tetranychus urticae (two-spotted spider mite)",
+    "symptoms": "Tiny yellow/white stippling on leaves, fine webbing on leaf undersides, leaves turn bronze",
+    "organic_remedy": "Spray strong water jets to dislodge mites. Apply neem oil (5ml per litre) weekly. Introduce predatory mites.",
+    "chemical_remedy": "Apply Abamectin 1.8% EC at 0.5ml per litre or Spiromesifen 22.9% SC at 1ml per litre.",
+    "urgency": "High",
+    "hindi": "टमाटर में मकड़ी के कण का प्रकोप है। तेज पानी की धार से पत्तियाँ धोएं। नीम तेल (5ml प्रति लीटर) साप्ताहिक छिड़काव करें। एबामेक्टिन दवा 0.5ml प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato", "disease": "Target Spot",
+    "cause": "Fungal disease caused by Corynespora cassiicola",
+    "symptoms": "Brown spots with concentric rings (target pattern) on leaves and fruit",
+    "organic_remedy": "Remove infected plant material. Improve air circulation. Avoid wet foliage.",
+    "chemical_remedy": "Apply Difenoconazole 25% EC at 0.5ml per litre or Mancozeb at 2g per litre.",
+    "urgency": "Medium",
+    "hindi": "टमाटर में टार्गेट धब्बा रोग है। संक्रमित पत्तियाँ हटाएं। डाइफेनोकोनाज़ोल दवा 0.5ml प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato", "disease": "Yellow Leaf Curl Virus",
+    "cause": "Viral disease (TYLCV) transmitted by whitefly Bemisia tabaci",
+    "symptoms": "Upward curling of leaf edges, yellowing, stunted growth, reduced fruit set",
+    "organic_remedy": "Remove and destroy infected plants. Use yellow sticky traps for whiteflies. Reflective mulch.",
+    "chemical_remedy": "Control whitefly vector with Imidacloprid 17.8% SL at 0.5ml per litre. No cure for infected plants.",
+    "urgency": "Critical",
+    "hindi": "टमाटर में पीला पत्ती मरोड़ वायरस है — संक्रमित पौधे तुरंत हटाएं और नष्ट करें! सफेद मक्खी नियंत्रण के लिए इमिडाक्लोप्रिड 0.5ml प्रति लीटर पानी में मिलाकर छिड़काव करें। पीले चिपचिपे जाल लगाएं।"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato", "disease": "Mosaic Virus",
+    "cause": "Viral disease (ToMV) spread through contact and infected tools",
+    "symptoms": "Mosaic pattern of light and dark green on leaves, leaf distortion, stunted growth",
+    "organic_remedy": "Remove infected plants. Sterilize tools with bleach solution. Wash hands before handling plants.",
+    "chemical_remedy": "No chemical cure. Control aphid vectors with Thiamethoxam 25% WG at 0.3g per litre.",
+    "urgency": "High",
+    "hindi": "टमाटर में मोज़ेक वायरस है। संक्रमित पौधे हटाएं। औजारों को ब्लीच से साफ करें। माहू कीट नियंत्रण के लिए थायमेथोक्साम दवा 0.3g प्रति लीटर पानी में मिलाकर छिड़काव करें।"
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato", "disease": "Healthy",
+    "cause": "No disease detected", "symptoms": "Plant appears healthy",
+    "organic_remedy": "Continue regular care — consistent watering, balanced NPK fertilizer, and regular scouting for early pest signs.",
+    "chemical_remedy": "No treatment required.",
+    "urgency": "None",
+    "hindi": "आपके टमाटर का पौधा स्वस्थ है! नियमित सिंचाई, संतुलित खाद और कीट निगरानी जारी रखें।"
+  }
+}
